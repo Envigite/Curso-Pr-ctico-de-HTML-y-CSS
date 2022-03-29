@@ -1,2 +1,4 @@
-# Curso-Pr-ctico-de-HTML-y-CSS
+# Curso Práctico de HTML y CSS
 Platzi
+
+Clon de página de Google
